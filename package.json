@@ -1,0 +1,15 @@
+{
+  "name": "legoapp",
+  "version": "1.0.0",
+  "description": "Lego app using Node.js and Microservices",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
